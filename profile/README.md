@@ -10,7 +10,7 @@ We appreciate all contributions from the community, both in the form of contribu
 
 Please use the following bibtex entry if you found this software useful!
 
-'''
+```
 @software{bmex,
   author       = {Kyle Godbey and Landon Buskirk and Troy Dasher and Pablo Giuliani},
   title        = {{BMEX} - {T}he {B}ayesian {M}ass {E}xplorer},
@@ -20,4 +20,4 @@ Please use the following bibtex entry if you found this software useful!
   doi          = {10.5281/zenodo.7111988},
   url          = {https://doi.org/10.5281/zenodo.7111988}
 }
-'''
+```
